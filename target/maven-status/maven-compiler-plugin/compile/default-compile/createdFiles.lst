@@ -1,0 +1,7 @@
+com\khaja\websocket\chat\ChatMessage$ChatMessageBuilder.class
+com\khaja\websocket\chat\ChatMessage.class
+com\khaja\websocket\config\WebSocketConfig.class
+com\khaja\websocket\chat\ChatController.class
+com\khaja\websocket\ChatApplication.class
+com\khaja\websocket\chat\MessageType.class
+com\khaja\websocket\config\WebSocketEventListener.class
